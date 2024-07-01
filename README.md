@@ -30,7 +30,7 @@ To get started with these notebooks, follow these steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/yourusername/Data-Analyst-With-Python.git
+    git clone https://github.com/Yarin-Shohat/Data-Analyst-With-Python.git
     ```
 2. **Open Google Colab:**
     - Go to [Google Colab](https://colab.research.google.com/).
